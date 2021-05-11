@@ -130,3 +130,7 @@ dmypy.json
 
 # Project folders
 dataset
+
+# Compressed files
+.zip
+.rar
